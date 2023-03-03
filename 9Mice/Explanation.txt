@@ -1,0 +1,2 @@
+"mice_segementation" is the script to do the segmentation based on the segmentataion factors stored at the xlsx sheet.
+"slice_determine-segmenattaion": this script is to offer a Plot for determine the slices number for mice segmentation.
